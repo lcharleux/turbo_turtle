@@ -3,7 +3,7 @@ import numpy as np
 
 def func(x):
     """
-    A function
+    A function, which function?
     """
     
     return np.sin(x)
